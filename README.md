@@ -1,5 +1,9 @@
 # file_watch
 
+Simple script requested by a friend.
+
+Re-execute a script when it is either terminated or crashes.
+
 # To Use
 
 Download the files by cloning the project.
